@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.para {
+    background-color: peachpuff;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.para.uniq {
+    font-size: 24px;
+}
+
+#num2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#num4 {
+    background-color: aquamarine;
+    font-size: 24px;
+    font-weight: bold;
+}
